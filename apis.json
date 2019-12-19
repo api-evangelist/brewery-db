@@ -1,0 +1,75 @@
+{
+    "name": "Brewery DB",
+    "description": "BreweryDB is the most complete database of breweries and beers. Curated by our administrators, you can be sure that our data is timely and accurate. BreweryDB is owned and operated by BrewLogix.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/BreweryDB_top_logo.png",
+    "tags": [
+        "alcohol",
+        "api provider",
+        "beer",
+        "brewery",
+        "drink",
+        "have api",
+        "have swagger",
+        "profile",
+        "publishing"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/brewery-db\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "BreweryDB",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/BreweryDB_top_logo.png",
+            "humanURL": "http:\/\/www.brewerydb.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/brewerydb-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/brewerydb.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/brewerydb-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.brewerydb.com\/api"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/brewerydb"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.brewerydb.com\/developers"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.brewerydb.com\/developers"
+        },
+        {
+            "type": "Swagger",
+            "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-definitions\/swagger\/164-2019-09-04-08-49-09.json"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/brewerydb"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.brewerydb.com\/"
+        }
+    ]
+}
